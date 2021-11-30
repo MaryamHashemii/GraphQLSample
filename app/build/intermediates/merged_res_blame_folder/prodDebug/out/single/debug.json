@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/navigation_nav_graph.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_item_repository.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/item_repository.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/drawable_background_edit_text.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/drawable/background_edit_text.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/navigation_nav_graph_home.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/navigation/nav_graph_home.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/drawable_ic_baseline_filter_hdr_24.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/drawable/ic_baseline_filter_hdr_24.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_fragment_splash.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/font_iranyekanmobilemedium.ttf.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/font/iranyekanmobilemedium.ttf"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_activity_main.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_fragment_repository.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/fragment_repository.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_fragment_user.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/fragment_user.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/layout_fragment_main.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/drawable_background_btn.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/drawable/background_btn.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/generated/res/pngs/prod/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/res/merged/prod/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/java/AndroidStudioProjects/Zarin_Test/app/src/main/res/drawable/ic_launcher_background.xml"
+    }
+]

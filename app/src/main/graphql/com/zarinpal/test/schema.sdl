@@ -1,0 +1,47 @@
+directive @cacheControl(
+maxAge: Int
+scope: CacheControlScope
+) on FIELD_DEFINITION | OBJECT | INTERFACE
+enum CacheControlScope {
+PUBLIC
+PRIVATE
+}
+
+type Character {
+id: ID
+name: String
+image: String
+}
+
+type Characters {
+info: Info
+results: [Character]
+}
+
+
+type Info {
+pages: Int
+}
+
+type Query {
+characters(page: Int): Characters
+}
+
+type Token {
+    tkn: String!
+}
+
+type Mutation {
+    postLogin(
+        email: String!
+        pass: String!
+    ): Token!
+}
+
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+scalar Upload
+

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Zarin_Test</string>
+
+    <string name="label_error_network">لطفا اتصال اینترنک را بررسی نمایید.</string>
+    <string name="label_error_unexpected_message">خطایی پیش آمده است</string>
+    <string name="label_username">نام کاربری</string>
+    <string name="label_password">رمز عبور</string>
+    <string name="label_enter">ورود</string>
+    <string name="label_repository">مخزن</string>
+    <string name="label_user">اطلاعات کاربری</string>
+</resources>

@@ -1,0 +1,7 @@
+#Tue Nov 30 13:54:13 IRST 2021
+base.1=/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/dex/prodDebug/mergeProjectDexProdDebug/classes.dex
+path.1=classes.dex
+base.0=/home/java/AndroidStudioProjects/Zarin_Test/app/build/intermediates/dex/prodDebug/mergeExtDexProdDebug/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

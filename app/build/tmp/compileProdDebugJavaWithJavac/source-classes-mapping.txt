@@ -1,0 +1,182 @@
+hilt_aggregated_deps/com_zarinpal_test_presentation_repositories_RepositoriesViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_repositories_RepositoriesViewModel_HiltModuleModuleDeps
+com/zarinpal/test/di/NetworkModule_ApolloClientFactory.java
+ com.zarinpal.test.di.NetworkModule_ApolloClientFactory
+ com.zarinpal.test.di.NetworkModule_ApolloClientFactory$InstanceHolder
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/zarinpal/test/DaggerBaseApp_HiltComponents_SingletonC.java
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$1
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$Builder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.zarinpal.test.DaggerBaseApp_HiltComponents_SingletonC$ServiceCImpl
+com/zarinpal/test/BaseApp_GeneratedInjector.java
+ com.zarinpal.test.BaseApp_GeneratedInjector
+com/zarinpal/test/presentation/user/UserViewModel_HiltModule.java
+ com.zarinpal.test.presentation.user.UserViewModel_HiltModule
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/zarinpal/test/presentation/repositories/RepositoriesViewModel_HiltModule.java
+ com.zarinpal.test.presentation.repositories.RepositoriesViewModel_HiltModule
+com/zarinpal/test/BuildConfig.java
+ com.zarinpal.test.BuildConfig
+com/zarinpal/test/di/RepositoryModule_ProvideRemoteDataSourceImplFactory.java
+ com.zarinpal.test.di.RepositoryModule_ProvideRemoteDataSourceImplFactory
+com/zarinpal/test/data/datasource/remote/RemoteDataSourceImpl_Factory.java
+ com.zarinpal.test.data.datasource.remote.RemoteDataSourceImpl_Factory
+com/zarinpal/test/data/datasource/local/AppDb_Impl.java
+ com.zarinpal.test.data.datasource.local.AppDb_Impl
+ com.zarinpal.test.data.datasource.local.AppDb_Impl$1
+hilt_aggregated_deps/com_zarinpal_test_di_RepositoryModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_di_RepositoryModuleModuleDeps
+hilt_aggregated_deps/com_zarinpal_test_di_RoomModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_di_RoomModuleModuleDeps
+com/zarinpal/test/domain/usecases/LoginUseCase_Factory.java
+ com.zarinpal.test.domain.usecases.LoginUseCase_Factory
+hilt_aggregated_deps/com_zarinpal_test_presentation_main_MainFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_main_MainFragment_GeneratedInjectorModuleDeps
+com/zarinpal/test/BaseApp_HiltComponents.java
+ com.zarinpal.test.BaseApp_HiltComponents
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityC
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityCBuilderModule
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityRetainedC
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityRetainedC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.zarinpal.test.BaseApp_HiltComponents$FragmentC
+ com.zarinpal.test.BaseApp_HiltComponents$FragmentC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$FragmentCBuilderModule
+ com.zarinpal.test.BaseApp_HiltComponents$ServiceC
+ com.zarinpal.test.BaseApp_HiltComponents$ServiceC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$ServiceCBuilderModule
+ com.zarinpal.test.BaseApp_HiltComponents$SingletonC
+ com.zarinpal.test.BaseApp_HiltComponents$ViewC
+ com.zarinpal.test.BaseApp_HiltComponents$ViewC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$ViewCBuilderModule
+ com.zarinpal.test.BaseApp_HiltComponents$ViewWithFragmentC
+ com.zarinpal.test.BaseApp_HiltComponents$ViewWithFragmentC$Builder
+ com.zarinpal.test.BaseApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/zarinpal/test/utils/NetworkConnectivity_Factory.java
+ com.zarinpal.test.utils.NetworkConnectivity_Factory
+com/zarinpal/test/databinding/FragmentMainBindingImpl.java
+ com.zarinpal.test.databinding.FragmentMainBindingImpl
+com/zarinpal/test/di/coroutine/CoroutinesModule_ProvidesMainDispatcherFactory.java
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesMainDispatcherFactory$InstanceHolder
+hilt_aggregated_deps/com_zarinpal_test_di_coroutine_CoroutinesModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_di_coroutine_CoroutinesModuleModuleDeps
+com/zarinpal/test/databinding/ActivityMainBinding.java
+ com.zarinpal.test.databinding.ActivityMainBinding
+com/zarinpal/test/databinding/FragmentUserBindingImpl.java
+ com.zarinpal.test.databinding.FragmentUserBindingImpl
+com/zarinpal/test/databinding/FragmentMainBinding.java
+ com.zarinpal.test.databinding.FragmentMainBinding
+com/zarinpal/test/presentation/repositories/RepositoriesViewModel_AssistedFactory.java
+ com.zarinpal.test.presentation.repositories.RepositoriesViewModel_AssistedFactory
+com/zarinpal/test/domain/usecases/GetRepositoriesUseCase_Factory.java
+ com.zarinpal.test.domain.usecases.GetRepositoriesUseCase_Factory
+com/zarinpal/test/presentation/repositories/RepositoriesViewModel_AssistedFactory_Factory.java
+ com.zarinpal.test.presentation.repositories.RepositoriesViewModel_AssistedFactory_Factory
+com/zarinpal/test/presentation/main/MainActivity_GeneratedInjector.java
+ com.zarinpal.test.presentation.main.MainActivity_GeneratedInjector
+com/zarinpal/test/presentation/user/UserViewModel_AssistedFactory_Factory.java
+ com.zarinpal.test.presentation.user.UserViewModel_AssistedFactory_Factory
+com/zarinpal/test/Hilt_BaseApp.java
+ com.zarinpal.test.Hilt_BaseApp
+ com.zarinpal.test.Hilt_BaseApp$1
+com/zarinpal/test/databinding/FragmentSplashBindingImpl.java
+ com.zarinpal.test.databinding.FragmentSplashBindingImpl
+com/zarinpal/test/di/coroutine/CoroutinesModule_ProvidesIoDispatcherFactory.java
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesIoDispatcherFactory$InstanceHolder
+com/zarinpal/test/presentation/user/UserViewModel_AssistedFactory.java
+ com.zarinpal.test.presentation.user.UserViewModel_AssistedFactory
+com/zarinpal/test/di/RepositoryModule_ProvideAppRepositoryFactory.java
+ com.zarinpal.test.di.RepositoryModule_ProvideAppRepositoryFactory
+hilt_aggregated_deps/com_zarinpal_test_presentation_main_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_main_MainActivity_GeneratedInjectorModuleDeps
+com/zarinpal/test/databinding/ActivityMainBindingImpl.java
+ com.zarinpal.test.databinding.ActivityMainBindingImpl
+hilt_aggregated_deps/com_zarinpal_test_BaseApp_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_BaseApp_GeneratedInjectorModuleDeps
+com/zarinpal/test/di/RoomModule_ProvideAppDAOFactory.java
+ com.zarinpal.test.di.RoomModule_ProvideAppDAOFactory
+com/zarinpal/test/data/GraphQlApolloClient_Factory.java
+ com.zarinpal.test.data.GraphQlApolloClient_Factory
+com/zarinpal/test/di/coroutine/CoroutinesModule_ProvidesMainImmediateDispatcherFactory.java
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesMainImmediateDispatcherFactory$InstanceHolder
+com/zarinpal/test/data/repository/AppRepositoryImpl_Factory.java
+ com.zarinpal.test.data.repository.AppRepositoryImpl_Factory
+hilt_aggregated_deps/com_zarinpal_test_presentation_user_UserViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_user_UserViewModel_HiltModuleModuleDeps
+com/zarinpal/test/di/RoomModule_ProvideAppDatabaseFactory.java
+ com.zarinpal.test.di.RoomModule_ProvideAppDatabaseFactory
+com/zarinpal/test/DataBinderMapperImpl.java
+ com.zarinpal.test.DataBinderMapperImpl
+ com.zarinpal.test.DataBinderMapperImpl$InnerBrLookup
+ com.zarinpal.test.DataBinderMapperImpl$InnerLayoutIdLookup
+com/zarinpal/test/databinding/ItemRepositoryBinding.java
+ com.zarinpal.test.databinding.ItemRepositoryBinding
+com/zarinpal/test/data/datasource/local/AppDao_Impl.java
+ com.zarinpal.test.data.datasource.local.AppDao_Impl
+ com.zarinpal.test.data.datasource.local.AppDao_Impl$1
+ com.zarinpal.test.data.datasource.local.AppDao_Impl$2
+ com.zarinpal.test.data.datasource.local.AppDao_Impl$3
+com/zarinpal/test/databinding/FragmentRepositoryBindingImpl.java
+ com.zarinpal.test.databinding.FragmentRepositoryBindingImpl
+com/zarinpal/test/presentation/repositories/Hilt_RepositoryFragment.java
+ com.zarinpal.test.presentation.repositories.Hilt_RepositoryFragment
+com/zarinpal/test/di/coroutine/CoroutinesModule_ProvidesDefaultDispatcherFactory.java
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory
+ com.zarinpal.test.di.coroutine.CoroutinesModule_ProvidesDefaultDispatcherFactory$InstanceHolder
+com/zarinpal/test/data/datasource/sharedPref/UserSharedPref_Factory.java
+ com.zarinpal.test.data.datasource.sharedPref.UserSharedPref_Factory
+hilt_aggregated_deps/com_zarinpal_test_presentation_user_UserFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_user_UserFragment_GeneratedInjectorModuleDeps
+com/zarinpal/test/presentation/user/Hilt_UserFragment.java
+ com.zarinpal.test.presentation.user.Hilt_UserFragment
+com/zarinpal/test/presentation/splash/Hilt_SplashFragment.java
+ com.zarinpal.test.presentation.splash.Hilt_SplashFragment
+com/zarinpal/test/presentation/splash/SplashFragment_GeneratedInjector.java
+ com.zarinpal.test.presentation.splash.SplashFragment_GeneratedInjector
+com/zarinpal/test/databinding/FragmentUserBinding.java
+ com.zarinpal.test.databinding.FragmentUserBinding
+com/zarinpal/test/presentation/main/MainFragment_GeneratedInjector.java
+ com.zarinpal.test.presentation.main.MainFragment_GeneratedInjector
+com/zarinpal/test/presentation/repositories/RepositoryFragment_GeneratedInjector.java
+ com.zarinpal.test.presentation.repositories.RepositoryFragment_GeneratedInjector
+hilt_aggregated_deps/com_zarinpal_test_di_NetworkModuleModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_di_NetworkModuleModuleDeps
+com/zarinpal/test/BR.java
+ com.zarinpal.test.BR
+com/zarinpal/test/presentation/main/Hilt_MainActivity.java
+ com.zarinpal.test.presentation.main.Hilt_MainActivity
+com/zarinpal/test/presentation/user/UserFragment_GeneratedInjector.java
+ com.zarinpal.test.presentation.user.UserFragment_GeneratedInjector
+hilt_aggregated_deps/com_zarinpal_test_presentation_splash_SplashFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_splash_SplashFragment_GeneratedInjectorModuleDeps
+com/zarinpal/test/DataBindingTriggerClass.java
+ com.zarinpal.test.DataBindingTriggerClass
+com/zarinpal/test/databinding/FragmentSplashBinding.java
+ com.zarinpal.test.databinding.FragmentSplashBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/zarinpal/test/databinding/FragmentRepositoryBinding.java
+ com.zarinpal.test.databinding.FragmentRepositoryBinding
+com/zarinpal/test/presentation/main/Hilt_MainFragment.java
+ com.zarinpal.test.presentation.main.Hilt_MainFragment
+hilt_aggregated_deps/com_zarinpal_test_presentation_repositories_RepositoryFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.com_zarinpal_test_presentation_repositories_RepositoryFragment_GeneratedInjectorModuleDeps

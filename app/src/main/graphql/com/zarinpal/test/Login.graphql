@@ -1,0 +1,12 @@
+mutation postLogin(
+    $email: String!
+    $pass: String!
+) {
+    postLogin(
+        email: $email
+        pass: $pass
+    ) {
+       tkn
+
+    }
+}
