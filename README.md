@@ -1,8 +1,8 @@
 # Zarin_Test
 
-This project show the list of product and work with GraphQL.
+This project show the list of Characters and work with GraphQL.
 
-The technology I used are:
+The technologies I used are:
 
 1.MVVM+CLEAN Architecture
 
